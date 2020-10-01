@@ -1,0 +1,54 @@
+body { min-height: 100vh; display: flex; flex-direction: column; }
+header{ } 
+main{flex-grow: 1;} 
+footer{ }
+
+/* * {
+  outline: 1px solid black;
+} */
+
+.row div {
+
+}
+.tractor-row{
+
+}
+
+.tractor-img-sm {
+  background-image: url("https://www.deere.com/assets/images/common/home-page/agriculture-PSO-181x102.jpg");
+  background-size: cover;
+  height: 8vh;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.gator-img-sm {
+    background-image: url("https://www.deere.com/assets/images/common/home-page/xuv590m_sept2020_632x384.jpg");
+    background-size: cover;
+
+    height: 25vh;
+    background-position: center;
+}
+
+.yellow-tractor-img {
+  background-image: url("https://www.deere.com/assets/images/common/home-page/homepage-cf1-oct2020.jpg");
+  background-size: cover;
+
+    height: 25vh;
+    background-position: center;
+}
+
+.bg-photo-header {
+  background-image: url("https://www.deere.com/assets/images/common/home-page/November-2020-Hero-1366x347.jpg");
+  background-size: cover;
+  height: 30vh;
+  background-position: center;
+}
+
+.leap-img{
+  background-image: url("https://www.deere.com/assets/images/common/home-page/homepage-pr-oct2020.jpg");
+  background-size: cover;
+  height: 280px;
+  width: 250px;
+  background-position: center;
+}
