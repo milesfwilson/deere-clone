@@ -22,6 +22,70 @@ footer{ }
   background-position: center;
 }
 
+.lawn-img-sm {
+  background-image: url("https://www.deere.com/assets/images/common/home-page/lawn-and-garden-PSO-181x102.jpg");
+  background-size: cover;
+  height: 8vh;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.construction-img-sm {
+  background-image: url("https://www.deere.com/assets/images/common/home-page/construction-PSO-181x102.jpg");
+  background-size: cover;
+  height: 8vh;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.landscaping-img-sm {
+  background-image: url("https://www.deere.com/assets/images/common/home-page/landscaping-and-grounds-care-PSO-181x102.jpg");
+  background-size: contain;
+  height: 8vh;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.golf-img-sm {
+  background-image: url("https://www.deere.com/assets/images/common/home-page/golf-and-sports-turf-PSO-181x102.jpg");
+  background-size: cover;
+  height: 8vh;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.forestry-img-sm {
+  background-image: url("https://www.deere.com/assets/images/common/home-page/forestry-PSO-181x102.jpg");
+  background-size: contain;
+  height: 8vh;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.engines-img-sm {
+  background-image: url("https://www.deere.com/assets/images/common/home-page/engines-and-drivetrain-PSO-181x102.jpg");
+  background-size: contain;
+  height: 8vh;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.government-img-sm {
+  background-image: url("https://www.deere.com/assets/images/common/home-page/military_excavator_181x102.jpg");
+  background-size: contain;
+  height: 8vh;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.rental-img-sm {
+  background-image: url("https://www.deere.com/assets/images/common/home-page/rental-sales-PSO-181x102.jpg");
+  background-size: contain;
+  height: 8vh;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
 .gator-img-sm {
     background-image: url("https://www.deere.com/assets/images/common/home-page/xuv590m_sept2020_632x384.jpg");
     background-size: cover;
@@ -30,8 +94,41 @@ footer{ }
     background-position: center;
 }
 
+.covid-img-sm {
+  background-image: url("https://www.deere.com/assets/images/common/home-page/Running-may.jpg");
+  background-size: cover;
+
+  height: 25vh;
+  background-position: center;
+}
+
+.low-monthly-img-sm {
+  background-image: url("https://www.deere.com/assets/images/common/home-page/homepage-feature-compact.jpg");
+  background-size: cover;
+
+  height: 25vh;
+  background-position: center;
+}
+
+.buy-online-img-sm {
+  background-image: url("https://www.deere.com/assets/images/common/home-page/buyonline3-nmb.jpg");
+  background-size: cover;
+
+  height: 25vh;
+  background-position: center;
+}
+
+
 .yellow-tractor-img {
   background-image: url("https://www.deere.com/assets/images/common/home-page/homepage-cf1-oct2020.jpg");
+  background-size: cover;
+
+    height: 25vh;
+    background-position: center;
+}
+
+.no-interest-img {
+  background-image: url("https://www.deere.com/assets/images/common/home-page/homepage-cf2npni-oct2020.jpg");
   background-size: cover;
 
     height: 25vh;
@@ -51,4 +148,24 @@ footer{ }
   height: 280px;
   width: 250px;
   background-position: center;
+}
+
+.new-life-img{
+  background-image: url("https://www.deere.com/assets/images/common/home-page/homepage-jdps-oct2020.jpg");
+  background-size: cover;
+  height: 280px;
+  width: 250px;
+  background-position: center;
+}
+
+.sustainability-img{
+  background-image: url("https://www.deere.com/assets/images/common/home-page/homepage-pr2-sep2020.jpg");
+  background-size: cover;
+  height: 280px;
+  width: 250px;
+  background-position: center;
+}
+
+.neg-m {
+  margin-left: -5px;
 }
